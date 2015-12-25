@@ -1,0 +1,33 @@
+{
+    "extName": {
+        "message": "Test Account Manager",
+        "description": "Test Account Manager"
+    },
+    "EXT_TITLE": {
+        "message": "Test Account Manager"
+    },
+    "USER": {
+        "message": "Username"
+    },
+    "PWD": {
+        "message": "Password"
+    },
+    "DESCRIPTION": {
+        "message": "Description"
+    },
+    "CASE": {
+        "message": "Case Id"
+    },
+    "MANAGE_BTN": {
+        "message": "Manage"
+    },
+    "ADD_BTN": {
+        "message": "Add"
+    },
+    "ADD_USER_TITLE": {
+        "message": "Add User"
+    },
+    "BACK": {
+        "message": "Back"
+    }
+}
